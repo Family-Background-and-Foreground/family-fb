@@ -1,0 +1,35 @@
+  Organization
+=================
+
+ Name - MYSOFT LIMITED
+
+ Email - info@mysoftltd.com
+
+ Contact - +88028189837
+ 
+  Internship
+==============
+
+ Title - MySoft Summer vInternship 2021
+
+ Batch - 0001
+
+ Track - Java-Based Microservice Solutions Development
+ 
+  Mentors 
+===========
+
+ Name - Mia Md Raihan
+
+ Email - htraihan@gmail.com
+
+ Contact - 01758388168
+ 
+  Identification
+==================
+
+ Intern ID - i21b0001s16
+
+ Applicant ID - a21b0001s071
+
+ Email - alif15-10730@diu.edu.bd
